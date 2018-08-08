@@ -1,0 +1,10 @@
+body {
+  background: url(https://html5book.ru/wp-content/uploads/2017/04/aleksandar-radovanovic-13513.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+   max-width: 990px;
+    margin: auto;
+    padding: 0 5px;
+}
